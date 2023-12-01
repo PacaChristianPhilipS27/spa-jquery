@@ -1,3 +1,8 @@
-.cliff-h1{
+.philip-h1{
     color: #99ccff;
+    text-align: center;
+    font-family: cursive;
+}
+.philip-body {
+    background-image: url("D:\spa-jquery\horror.jpg");
 }
